@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kivu-horizon-hotel.eliendala50.workers.dev/sitemap.xml
